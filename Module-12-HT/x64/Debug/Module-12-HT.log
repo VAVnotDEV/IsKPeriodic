@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Users\vesel\YandexDisk\Cpp\Module-12-HT\Module-12-HT\main.cpp(17,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Module-12-HT.vcxproj -> D:\Users\vesel\YandexDisk\Cpp\Module-12-HT\x64\Debug\Module-12-HT.exe
